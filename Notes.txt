@@ -1,0 +1,9 @@
+As per paylike original module i have fixed compile errors while using di:compile. 
+As well as i have fixed the success page redirection after order has been placed.
+
+I would like to suggest you to install this module in default magento fresh.
+
+So that you won't get errors.
+
+thanks
+
